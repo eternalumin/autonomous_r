@@ -1,0 +1,22 @@
+Dependencies for Project 'ViXen', Target 'TM4C123': (DO NOT MODIFY !)
+CompilerVersion: 5060061::V5.06 update 1 (build 61)::ARMCC
+F (.\main.c)(0x68924DC3)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\Libraries&Drivers-I M:\CORTEX-M.COM\CM_Internals\CMSIS_COMPLAINT_CODE\ViXen\RTE-I C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\V518a\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="518" -D_RTE_ -DTM4C1230H6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (.\Libraries&Drivers\head.c)(0x68924DC3)()
+F (.\Libraries&Drivers\head.h)(0x68924DC3)()
+F (.\Libraries&Drivers\head.s)(0x68924DC3)()
+F (.\Libraries&Drivers\neck.c)(0x68924DC3)()
+F (.\Libraries&Drivers\neck.h)(0x68924DC3)()
+F (.\Libraries&Drivers\limbs.c)(0x68924DC3)()
+F (.\Libraries&Drivers\limbs.h)(0x68924DC3)()
+F (.\Libraries&Drivers\limbs.s)(0x68924DC3)()
+F (.\Libraries&Drivers\tail.h)(0x68924DC3)()
+F (.\Libraries&Drivers\tail.s)(0x68924DC4)()
+F (.\Libraries&Drivers\lights.h)(0x68924DC3)()
+F (.\Libraries&Drivers\lights.s)(0x68924DC3)()
+F (.\Libraries&Drivers\delay.c)(0x68924DC3)()
+F (.\Libraries&Drivers\delay.h)(0x68924DC3)()
+F (.\Libraries&Drivers\play_around.c)(0x68924DC3)()
+F (.\Libraries&Drivers\play_around.h)(0x68924DC3)()
+F (.\Libraries&Drivers\pin_connections.txt)(0x68924DC3)()
+F (RTE/Device/TM4C1230H6PM/startup_TM4C123.s)(0x68924DC4)()
+F (RTE/Device/TM4C1230H6PM/system_TM4C123.c)(0x68924DC4)()

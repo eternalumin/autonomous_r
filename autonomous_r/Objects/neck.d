@@ -1,0 +1,10 @@
+.\objects\neck.o: Libraries&Drivers\neck.c
+.\objects\neck.o: C:\Keil_v5\V518a\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h
+.\objects\neck.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+.\objects\neck.o: C:\Keil_v5\V518a\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\neck.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\neck.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\neck.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\neck.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+.\objects\neck.o: C:\Keil_v5\V518a\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h
+.\objects\neck.o: Libraries&Drivers\delay.h

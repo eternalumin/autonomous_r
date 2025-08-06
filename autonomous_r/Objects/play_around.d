@@ -1,0 +1,15 @@
+.\objects\play_around.o: Libraries&Drivers\play_around.c
+.\objects\play_around.o: C:\Keil_v5\V518a\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h
+.\objects\play_around.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+.\objects\play_around.o: C:\Keil_v5\V518a\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\play_around.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\play_around.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\play_around.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\play_around.o: C:\Keil_v5\V518a\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+.\objects\play_around.o: C:\Keil_v5\V518a\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h
+.\objects\play_around.o: Libraries&Drivers\delay.h
+.\objects\play_around.o: Libraries&Drivers\play_around.h
+.\objects\play_around.o: Libraries&Drivers\limbs.h
+.\objects\play_around.o: Libraries&Drivers\head.h
+.\objects\play_around.o: Libraries&Drivers\lights.h
+.\objects\play_around.o: Libraries&Drivers\neck.h
